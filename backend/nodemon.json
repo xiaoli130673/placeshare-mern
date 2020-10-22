@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "xiaoli130",
+    "DB_PASSWORD": "Limuzi130",
+    "DB_NAME": "placeshare",
+    "GOOGLE_API_KEY": "AIzaSyDgLmMpKCzveJf1_yuA0fUzzhy0WRChvZA",
+    "JWT_KEY": "my-secret"
+  }
+}
